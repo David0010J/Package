@@ -16,7 +16,7 @@
 
 	<title>Profile | AdminKit Demo</title>
 
-	<link href="adminkit-3.1.0/static/css/app.css" rel="stylesheet">
+	<link href="adminkit/static/css/app.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 </head>
 
