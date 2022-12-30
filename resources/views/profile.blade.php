@@ -16,7 +16,7 @@
 
 	<title>Profile | AdminKit Demo</title>
 
-	<link href="css/app.css" rel="stylesheet">
+	<link href="adminkit-3.1.0/static/css/app.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 </head>
 
@@ -389,7 +389,7 @@
 
 									<hr />
 									<div class="d-flex align-items-start">
-										<img src="img/avatars/avatar-4.jpg" width="36" height="36" class="rounded-circle me-2" alt="Christina Mason">
+										<img src="adminkit-3.1.0/src/img/avatars/avatar-4.jpg" width="36" height="36" class="rounded-circle me-2" alt="Christina Mason">
 										<div class="flex-grow-1">
 											<small class="float-end text-navy">1h ago</small>
 											<strong>Christina Mason</strong> posted a new blog<br />
@@ -400,7 +400,7 @@
 
 									<hr />
 									<div class="d-flex align-items-start">
-										<img src="img/avatars/avatar-2.jpg" width="36" height="36" class="rounded-circle me-2" alt="William Harris">
+										<img src="adminkit-3.1.0/src/img/avatars/avatar-2.jpg" width="36" height="36" class="rounded-circle me-2" alt="William Harris">
 										<div class="flex-grow-1">
 											<small class="float-end text-navy">3h ago</small>
 											<strong>William Harris</strong> posted two photos on <strong>Christina Mason</strong>'s timeline<br />
@@ -408,10 +408,10 @@
 
 											<div class="row g-0 mt-1">
 												<div class="col-6 col-md-4 col-lg-4 col-xl-3">
-													<img src="img/photos/unsplash-1.jpg" class="img-fluid pe-2" alt="Unsplash">
+													<img src="adminkit-3.1.0/src/img/photos/unsplash-1.jpg" class="img-fluid pe-2" alt="Unsplash">
 												</div>
 												<div class="col-6 col-md-4 col-lg-4 col-xl-3">
-													<img src="img/photos/unsplash-2.jpg" class="img-fluid pe-2" alt="Unsplash">
+													<img src="adminkit-3.1.0/src/img/photos/unsplash-2.jpg" class="img-fluid pe-2" alt="Unsplash">
 												</div>
 											</div>
 
@@ -421,7 +421,7 @@
 
 									<hr />
 									<div class="d-flex align-items-start">
-										<img src="img/avatars/avatar-2.jpg" width="36" height="36" class="rounded-circle me-2" alt="William Harris">
+										<img src="adminkit-3.1.0/src/img/avatars/avatar-2.jpg" width="36" height="36" class="rounded-circle me-2" alt="William Harris">
 										<div class="flex-grow-1">
 											<small class="float-end text-navy">1d ago</small>
 											<strong>William Harris</strong> started following <strong>Christina Mason</strong><br />
@@ -429,7 +429,7 @@
 
 											<div class="d-flex align-items-start mt-1">
 												<a class="pe-3" href="#">
-                <img src="img/avatars/avatar-4.jpg" width="36" height="36" class="rounded-circle me-2" alt="Christina Mason">
+                <img src="adminkit-3.1.0/src/img/avatars/avatar-4.jpg" width="36" height="36" class="rounded-circle me-2" alt="Christina Mason">
               </a>
 												<div class="flex-grow-1">
 													<div class="border text-sm text-muted p-2 mt-1">
@@ -502,7 +502,7 @@
 		</div>
 	</div>
 
-	<script src="/adminkit/static/js/app.js"></script>
+	<script src="/adminkit-3.1.0/static/js/app.js"></script>
 
 </body>
 
