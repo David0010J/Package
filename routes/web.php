@@ -43,3 +43,7 @@ Route::get('/buttons', function () {
 Route::get('/forms', function () {
     return view('form');
 });
+
+Route::get('/icon', function () {
+    return view('icon');
+});
