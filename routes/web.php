@@ -22,3 +22,11 @@ Route::get('/index', function () {
 Route::get('/profile', function () {
     return view('profile');
 });
+
+Route::get('/sign-in', function () {
+    return view('sign-in');
+});
+
+Route::get('/sign-up', function () {
+    return view('sign-up');
+});
