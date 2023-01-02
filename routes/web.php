@@ -41,5 +41,5 @@ Route::get('/buttons', function () {
 });
 
 Route::get('/forms', function () {
-    return view('forms');
+    return view('form');
 });
