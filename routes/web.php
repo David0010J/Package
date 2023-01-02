@@ -15,9 +15,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/master', function () {
-    return view('master');
-});
 
 Route::get('/index', function () {
     return view('index');
@@ -34,3 +31,7 @@ Route::get('/sign-in', function () {
 Route::get('/sign-up', function () {
     return view('sign-up');
 });
+
+// Route::get('/master', function () {
+//     return view('layout.master');
+// });
