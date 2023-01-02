@@ -85,7 +85,7 @@
 
 									<hr />
 									<div class="d-flex align-items-start">
-										<img src="adminkit/src/img/avatars/avatar.jpg" width="36" height="36" class="rounded-circle me-2" alt="Charles Hall">
+										<img src="/adminkit/src/img/avatars/avatar.jpg" width="36" height="36" class="rounded-circle me-2" alt="Charles Hall">
 										<div class="flex-grow-1">
 											<small class="float-end text-navy">30m ago</small>
 											<strong>Charles Hall</strong> posted something on <strong>Christina Mason</strong>'s timeline<br />
@@ -113,7 +113,7 @@
 
 									<hr />
 									<div class="d-flex align-items-start">
-										<img src="adminkit-31.0/src/img/avatars/avatar-2.jpg" width="36" height="36" class="rounded-circle me-2" alt="William Harris">
+										<img src="/adminkit/src/img/avatars/avatar-2.jpg" width="36" height="36" class="rounded-circle me-2" alt="William Harris">
 										<div class="flex-grow-1">
 											<small class="float-end text-navy">3h ago</small>
 											<strong>William Harris</strong> posted two photos on <strong>Christina Mason</strong>'s timeline<br />
