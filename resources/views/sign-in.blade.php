@@ -49,7 +49,7 @@
 											<label class="form-label">Password</label>
 											<input class="form-control form-control-lg" type="password" name="password" placeholder="Enter your password" />
 											<small>
-            <a href="index.html">Forgot password?</a>
+            <a href="{{url('/sign-up')}}">Forgot password?</a>
           </small>
 										</div>
 										<div>
