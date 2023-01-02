@@ -35,3 +35,11 @@ Route::get('/sign-up', function () {
 // Route::get('/master', function () {
 //     return view('layout.master');
 // });
+
+Route::get('/buttons', function () {
+    return view('buttons');
+});
+
+Route::get('/forms', function () {
+    return view('forms');
+});
