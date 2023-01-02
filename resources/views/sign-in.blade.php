@@ -16,7 +16,7 @@
 
 	<title>Sign In | AdminKit Demo</title>
 
-	<link href="css/app.css" rel="stylesheet">
+	<link href="/adminkit/static/css/app.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 </head>
 
@@ -38,7 +38,7 @@
 							<div class="card-body">
 								<div class="m-sm-4">
 									<div class="text-center">
-										<img src="img/avatars/avatar.jpg" alt="Charles Hall" class="img-fluid rounded-circle" width="132" height="132" />
+										<img src="/adminkit/src/img/avatars/avatar.jpg" alt="Charles Hall" class="img-fluid rounded-circle" width="132" height="132" />
 									</div>
 									<form>
 										<div class="mb-3">
@@ -75,7 +75,7 @@
 		</div>
 	</main>
 
-	<script src="js/app.js"></script>
+	<script src="/adminkit/static/js/app.js"></script>
 
 </body>
 
