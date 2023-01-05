@@ -53,3 +53,9 @@ Route::get('/icon', function () {
 Route::get('/signin', function () {
     return view('adminMonster.signin');
 });
+
+// MEF
+
+Route::get('/login', function () {
+    return view('MEF.login');
+});
