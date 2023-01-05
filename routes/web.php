@@ -47,3 +47,9 @@ Route::get('/forms', function () {
 Route::get('/icon', function () {
     return view('icon');
 });
+
+//AdminMonster
+
+Route::get('/signin', function () {
+    return view('adminMonster.signin');
+});
